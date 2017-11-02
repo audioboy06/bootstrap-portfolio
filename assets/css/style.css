@@ -1,0 +1,40 @@
+/* additional css for bootstrap page */
+
+body {
+    background-image: url("../images/topography.png")
+}
+
+/* Rick Joyce header elements*/
+.navbar-brand {
+    font-size: 40px;
+    color: white;
+    background-color: teal;
+}
+
+.navbar-brand:hover {
+    background-color: teal;
+}
+
+.container-fluid {
+    background-color: white;
+}
+
+
+.form-horizontal {
+    background-color: white;
+    border: 1px solid lightgrey;
+    margin: 0px;
+    padding: 20px;
+}
+
+.pull-left {
+    float: left;
+}
+
+h1 {
+    font-size: 30px;
+    color: teal;
+}
+
+/* css for index page */
+
